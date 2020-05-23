@@ -1,0 +1,27 @@
+name = "Norwegian Blue"
+print(name)
+#print(" W\n E \n \n W\n i\n n")
+print(name[3])
+print(name[4])
+print(name[9])
+print(name[3])
+print(name[6])
+print(name[8])
+
+
+print(name[-11])
+print(name[-1])
+print(name[-5])
+print(name[-11])
+print(name[-8])
+print(name[-6])
+
+print(name[3-14])
+print(name[4-14])
+print(name[9-14])
+print(name[3-14])
+print(name[6-14])
+print(name[8-14])
+print(name[2:6])
+print(name[2:])
+print(name[:])
